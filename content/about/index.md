@@ -6,7 +6,7 @@ cover:
   alt: "Hamed"
 ---
 
-I'm Hamed Samsami, a Hydrologist and Hydroinformatics Engineer from Iran, now based in Kongsvinger, Norway. My story is about merging two passions: water and technology.
+I'm Hamed Samsami, a Hydroinformatics Engineer from Iran, now based in Norway. My story is about merging two passions: water and technology.
 
 ## Teenage Coder: The Early Days
 
