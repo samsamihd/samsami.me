@@ -33,7 +33,7 @@ Master machine learning and AI from scratch, even if you're new to Python. This 
             <p style="font-size:16px;margin-bottom:20px;"><b>💰Money-Back Guarantee:</b> Full refund available within 7 days of registration.</p>
         </div>
         <!-- Enroll Button -->
-        <a href="https://academy.samsami.tech" 
+        <a href="https://academy.samsami.me" 
             style="display:block;background-color:#0cc0df;color:#fff;text-align:center;padding:10px;border-radius:10px;font-size:22px;font-weight:bold;text-decoration:none; max-width:160px">
         Enroll Now!
         </a>
@@ -162,7 +162,7 @@ Don’t miss this chance to lead the future of water science. Start learning mac
             <p style="font-size:16px;margin-bottom:20px;"><b>💰Money-Back Guarantee:</b> Full refund available within 7 days of registration.</p>
         </div>
         <!-- Enroll Button -->
-        <a href="https://academy.samsami.tech" 
+        <a href="https://academy.samsami.me" 
             style="display:block;background-color:#0cc0df;color:#fff;text-align:center;padding:10px;border-radius:10px;font-size:22px;font-weight:bold;text-decoration:none; max-width:160px">
         Enroll Now!
         </a>

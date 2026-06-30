@@ -20,7 +20,7 @@ The app has been featured in peer-reviewed scientific publications and has alrea
 
 My interest in citizen science led me to notice a gap in accessible flood information, both for the public and specialists. To address this, I created the Flood Events Database. It's an open-source web application where anyone can find and share information about flood events worldwide.
 
-🔗 [Access the Flood Events Database](https://fed.samsami.tech)
+🔗 [Access the Flood Events Database](https://fed.samsami.me)
 
 ## Libredraft
 
@@ -38,10 +38,10 @@ While this project isn't related to water or engineering, I developed it to lear
 
 🔗 [Download Hiro](https://github.com/samsamitech/hiro)
 
-## And Finally: Samsami.Tech
+## And Finally: Samsami.Me
 
 **A Hub for Hydroinformatics Enthusiasts**
 
-I've always felt the need for a comprehensive portal for hydroinformatics. Combining this with my desire for a personal website that serves as a portfolio, blog, and digital garden, I created Samsami.Tech. This online space is dedicated to sharing knowledge about hydroinformatics. It's designed for engineers, scientists, researchers, and anyone interested in this field. Best of all, it's open-source! You can find all the source code for the website on GitHub and suggest improvements for articles and the overall website.
+I've always felt the need for a comprehensive portal for hydroinformatics. Combining this with my desire for a personal website that serves as a portfolio, blog, and digital garden, I created Samsami.Me. This online space is dedicated to sharing knowledge about hydroinformatics. It's designed for engineers, scientists, researchers, and anyone interested in this field. Best of all, it's open-source! You can find all the source code for the website on GitHub and suggest improvements for articles and the overall website.
 
-🔗 [Explore Samsami.Tech](https://www.samsami.tech)
+🔗 [Explore Samsami.Me](https://www.samsami.me)

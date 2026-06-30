@@ -1,5 +1,5 @@
-baseURL: https://samsami.tech/
-title: Samsami.Tech | Hydroinformatics Hub
+baseURL: https://samsami.me/
+title: Samsami.me | Hydroinformatics Hub
 languageCode: en-us
 theme: ["PaperMod"]
 
@@ -24,9 +24,9 @@ mainsections: ["courses", "articles"]
 
 params:
   label:
-    text: "Samsami.Tech"
+    text: "Samsami.Me"
     icon: "apple-touch-icon.png"
-  description: "Discover Samsami.Tech, your go-to resource for all things hydroinformatics. Explore technical articles, in-depth tutorials, cool projects, and the latest news"
+  description: "Discover Samsami.Me, your go-to resource for all things hydroinformatics. Explore technical articles, in-depth tutorials, cool projects, and the latest news"
   images: ["images/hamed.jpg"]
   keywords:
     [
@@ -48,7 +48,7 @@ params:
     imageHeight: 200
     buttons:
       - name: Flood Events Database
-        url: https://fed.samsami.tech/
+        url: https://fed.samsami.me/
 
   socialIcons:
     - name: "linkedin"
