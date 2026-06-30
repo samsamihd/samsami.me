@@ -49,13 +49,13 @@ params:
 
   socialIcons:
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/samsamitech/"
+      url: "https://www.linkedin.com/in/samsamihd/"
     - name: "github"
-      url: "https://github.com/samsamitech"
+      url: "https://github.com/samsamihd"
     - name: "x"
-      url: "https://x.com/samsamitech"
+      url: "https://x.com/samsamihd"
     - name: "email"
-      url: "mailto:samsamitech@gmail.com"
+      url: "mailto:samsamihd@gmail.com"
 
   ShowShareButtons: true
 

@@ -69,10 +69,10 @@ From my early days of coding until now, I've been learning and growing continuou
 
 ## Reach Me Here
 
-📧 Email: samsamitech@gmail.com
+📧 Email: samsamihd@gmail.com
 
-💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/samsamitech/)
+💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/samsamihd/)
 
-🐙 [Check out my GitHub](https://www.github.com/samsamitech/)
+🐙 [Check out my GitHub](https://www.github.com/samsamihd/)
 
-✖️ [Follow me on X](https://www.x.com/samsamitech/)
+✖️ [Follow me on X](https://www.x.com/samsamihd/)

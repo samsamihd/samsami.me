@@ -36,7 +36,7 @@ Libredraft is a free, open-source, and lightweight tool for designing 2D CAD pro
 
 While this project isn't related to water or engineering, I developed it to learn the Go programming language. Meet Hiro, a fast, lightweight download manager and accelerator that enhances your downloading experience.
 
-🔗 [Download Hiro](https://github.com/samsamitech/hiro)
+🔗 [Download Hiro](https://github.com/samsamihd/hiro)
 
 ## And Finally: Samsami.Me
 
