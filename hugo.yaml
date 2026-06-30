@@ -46,9 +46,6 @@ params:
     imageTitle: "Hamed Samsami"
     imageWidth: 200
     imageHeight: 200
-    buttons:
-      - name: Flood Events Database
-        url: https://fed.samsami.me/
 
   socialIcons:
     - name: "linkedin"
