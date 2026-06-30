@@ -2,46 +2,26 @@
 title: "My Projects"
 ---
 
-Welcome to my projects page! Here you'll find some of the projects I've built and contributed to. They blend my passion for water, coding, and open-source development.
+Selected projects spanning hydrological modeling, machine learning, and field data platforms.
+
+## Physics-Informed Deep Learning for Multi-Basin River Discharge Forecasting
+
+**Integrating process-based hydrology with deep learning for operational forecasting**
+
+Developed a multi-basin river discharge forecasting model that combines physics-informed machine learning with a differentiable hydrology core. The architecture integrates Mamba state-space layers for temporal dynamics, causal graph neural network routing for inter-basin flow propagation, and a differentiable hydrology module to preserve physical consistency across basins.
+
+## Computational Groundwater Flow Modeling
+
+**MSc research — Python-based groundwater simulation**
+
+For my master's research at the University of Zanjan, I developed groundwater flow models using Python. The work applied numerical methods to simulate subsurface flow and support analysis of hydraulic structures and groundwater systems.
 
 ## eOceans Mobile App
 
-**Empowering Citizen Scientists and Researchers to Study Oceans**
+**Data collection platform for oceanographic research**
 
-I contributed to the development of the eOceans mobile app, a powerful tool for citizen scientists, researchers, and teams exploring and studying the world's oceans. This app enables users to capture valuable data about ocean environments in real-time, contributing to faster and more collaborative discoveries.
+I contributed to the development of [eOceans](https://eoceans.app/), a mobile data collection platform that helps oceanographers and research teams capture and organize field observations. The app supports real-time environmental data collection in the field, enabling faster and more collaborative marine research.
 
-The app has been featured in peer-reviewed scientific publications and has already informed international policies to protect endangered species and special marine areas.
+The platform has been featured in peer-reviewed scientific publications and has informed international policies to protect endangered species and special marine areas.
 
-🔗 [Visit eOceans's Website ](https://eoceans.app/)
-
-## Flood Events Database
-
-**A Citizen Science Project for Gathering Flood Events Data**
-
-My interest in citizen science led me to notice a gap in accessible flood information, both for the public and specialists. To address this, I created the Flood Events Database. It's an open-source web application where anyone can find and share information about flood events worldwide.
-
-🔗 [Access the Flood Events Database](https://fed.samsami.me)
-
-## Libredraft
-
-**Free, Open-Source, and Lightweight 2D CAD Design**
-
-Libredraft is a free, open-source, and lightweight tool for designing 2D CAD projects directly in your browser. It eliminates the need for bulky software installations or expensive licenses. Libredraft offers a simple, user-friendly interface to create 2D drawings, making CAD design more accessible to everyone.
-
-🔗 [Try Libredraft](https://www.libredraft.com)
-
-## Hiro
-
-**Download Manager and Accelerator**
-
-While this project isn't related to water or engineering, I developed it to learn the Go programming language. Meet Hiro, a fast, lightweight download manager and accelerator that enhances your downloading experience.
-
-🔗 [Download Hiro](https://github.com/samsamihd/hiro)
-
-## And Finally: Samsami.Me
-
-**A Hub for Hydroinformatics Enthusiasts**
-
-I've always felt the need for a comprehensive portal for hydroinformatics. Combining this with my desire for a personal website that serves as a portfolio, blog, and digital garden, I created Samsami.Me. This online space is dedicated to sharing knowledge about hydroinformatics. It's designed for engineers, scientists, researchers, and anyone interested in this field. Best of all, it's open-source! You can find all the source code for the website on GitHub and suggest improvements for articles and the overall website.
-
-🔗 [Explore Samsami.Me](https://www.samsami.me)
+🔗 [Visit eOceans](https://eoceans.app/)
