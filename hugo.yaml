@@ -1,6 +1,6 @@
 baseURL: https://samsami.me/
 title: Samsami.me | Hydroinformatics Hub
-languageCode: en-us
+locale: en-us
 theme: ["PaperMod"]
 
 pagination:
