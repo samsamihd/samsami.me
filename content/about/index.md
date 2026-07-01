@@ -6,77 +6,191 @@ cover:
   alt: "Hamed"
 ---
 
-I'm Hamed Samsami, a Hydroinformatics Engineer from Iran, now based in Norway. My story is about merging two passions: water and technology.
+## Hi, I'm Hamed Samsami
 
-## Teenage Coder: The Early Days
+I'm **Hamed Samsami**, a **Hydrologist and Hydroinformatics Engineer** based in **Kongsvinger, Norway**. I combine **hydrology, machine learning, and software engineering** to build smarter water systems that help utilities and communities make better decisions.
 
-As a teenager, I spent countless late nights at my computer. While my friends were playing video games and chatting on Yahoo, I was learning to write code and participating in programming competitions.
+Over the past **17+ years**, my career has evolved from designing and supervising water infrastructure projects to developing **AI-powered forecasting systems**, **cloud-based data pipelines**, and **digital water platforms**. My work sits at the intersection of water science and technology, where process-based hydrology meets machine learning.
 
-My interest in computer science never waned. Even while studying civil engineering, I used my free time to build websites for friends, local schools, and various small projects. I became the go-to person for computer problems among family and friends.
+I believe the future of water engineering is digital, and I'm excited to help build it.
 
-## Building a Better World: My Civil Engineering Journey
+---
 
-Picture this: You're standing in front of a huge dam you helped build. You know that because of your work, thousands of people now have water and electricity. That's why I became a civil engineer. I wanted to build things that make life better for lots of people and last for a long time.
+# My Journey
 
-I studied civil engineering at the University of Kurdistan. While learning, I realized something important. The future of civil engineering isn't just about building bigger things. It's about making buildings that don't harm the environment as much. We call this being "Sustainable".
+## A Passion for Coding
 
-I also learned about a big problem called "Climate Change". It's making floods and droughts happen more often. This makes life harder for people. As engineers, we need to get ready for these changes.
+Long before I became an engineer, I was fascinated by computers.
 
-These ideas got me really interested in water and the environment. So, I pursued a master's degree in Hydraulic Structures Engineering at the University of Zanjan. This means I learned how to build dams, channels, water distribution systems, and flood protection systems.
+As a teenager, I spent countless evenings teaching myself programming while many of my friends were busy playing games or chatting online. I participated in programming competitions and built websites and small software projects simply because I enjoyed creating things.
 
-## The Perfect Blend: When Water Met Code
+Even while studying civil engineering, I continued writing code whenever I had free time. Friends, classmates, and family quickly learned that I was the person to call whenever there was a computer problem or a new website to build.
 
-During my master's degree, my two passions converged. For my dissertation, I used Python to develop groundwater flow and hydraulic models. This perfect blend of water and programming was exhilarating.
+Looking back, programming wasn't just a hobby—it became the foundation for everything I do today.
 
-Over my 17+ year career, I've had the privilege of working on incredible infrastructure projects—from municipal water systems serving 100,000+ residents to planning, designing, and overseeing construction from initial sketches through execution.
+---
 
-Throughout this journey, I've sought ways to introduce new technologies into our field. I'm always experimenting with the latest software, encouraging colleagues to embrace these tools. I've even created software tools to streamline our work, sharing them with my peers.
+## Building Better Water Systems
 
-## Startup Adventures: A Part-Time Plunge into Tech
+I studied **Civil Engineering** at the **University of Kurdistan**, where I developed a strong interest in infrastructure, sustainability, and water resources.
 
-In my free time, I began working remotely part-time with several Canadian startups as a software developer. It was like stepping into a different world.
+As I learned more about climate change, floods, droughts, and the growing pressure on water resources, I realized that traditional engineering alone wouldn't be enough to solve tomorrow's challenges.
 
-Working alongside expert back-end and front-end developers, data scientists, DevOps engineers, designers, and product managers, I learned a lot about how agile companies operate. For example, I contributed to [eOceans](https://eoceans.app/), a mobile data collection platform that helps oceanographers collect and organize field data with ease.
+This led me to pursue a **Master's degree in Hydraulic Structures Engineering** at the **University of Zanjan**, specializing in hydraulic structures, water distribution systems, flood protection, and groundwater modeling.
 
-These experiences have been more than just side projects. They've been a bridge, connecting my world of water engineering with the fast-paced realm of technology startups.
+For my master's research, I combined my two passions by developing groundwater flow models using **Python**. That experience introduced me to hydroinformatics—the field where water science meets computer science—and I knew I had found my career.
 
-## The Hydroinformatics Revolution: Why Water Needs Tech?
+---
 
-Working in two separate industries simultaneously, a question persistently occupied my mind: While the IT world races ahead, creating amazing tools that simplify complex tasks, why does the water industry (and civil engineering in general) often lag behind?
-Water engineers still use software that was groundbreaking decades ago, created by brilliant minds of the past. But in this age of Artificial Intelligence, Cloud Computing, IoT, Virtual Reality, and Blockchain, we need a revolution to tackle complex water challenges.
+## From Infrastructure to Hydroinformatics
 
-I dream of a future where cutting-edge technologies are implemented across the water industry. Where machine learning predicts flood patterns, IoT sensors monitor water quality in real-time, and virtual reality helps us design more efficient water systems. Today, as a Hydroinformatics Engineer at Aqua Alarm, I build ML models for forecasting and anomaly detection, AWS data pipelines, and digital water platforms for operational water networks. Our team won 1st prize in The Water Council's Tech Challenge for AI-native water technologies.
+Before moving into hydroinformatics, I spent many years working as a water infrastructure engineer.
 
-## Decoding Hydroinformatics: Where Water Meets Tech
+I participated in planning, designing, and supervising municipal water projects, helping deliver infrastructure that serves more than **100,000 residents**. My work ranged from hydraulic analysis and water transmission systems to construction supervision and long-term infrastructure planning.
 
-Hydroinformatics is a cutting-edge field that harnesses the power of computer science to tackle complex water-related challenges.
-At its core, hydroinformatics is about turning vast amounts of water data into actionable insights. We use sophisticated algorithms to process information from various sources - satellite imagery, ground sensors, historical records, and more - to create comprehensive models of water systems.
+Those years taught me how water systems operate in the real world—not just in computer models. Today, that practical engineering experience helps me build digital solutions that are grounded in operational reality.
 
-But hydroinformatics isn't just about technology - it's about impact. Our work has the potential to save lives by improving flood warnings, conserve precious water resources through better management, and help communities adapt to the impacts of climate change on their water systems.
+---
 
-As we face growing challenges like water scarcity and extreme weather events, the role of hydroinformatics becomes increasingly crucial. We're at the forefront of developing solutions that will shape the future of water management globally.
-The field is rapidly evolving, with emerging technologies like artificial intelligence, Internet of Things (IoT) sensors, and big data analytics opening up new possibilities.
+## Learning from Technology Startups
 
-This is why I'm so excited to be part of this field. Every project presents a unique set of challenges, like a complex puzzle waiting to be solved. The future of water management is digital, and as a hydroinformatics engineer, I'm thrilled to be part of it. In my work, I employ a diverse toolkit: Python, R, MATLAB, JavaScript/TypeScript, AWS, GIS tools, and hydraulic modeling software such as HEC-RAS, HEC-HMS, SWMM, and EPANET.
+Alongside my engineering career, I worked remotely with several Canadian technology startups as a software developer.
 
-## Welcome to My Digital Garden: Growing Ideas Together
+These experiences exposed me to modern software engineering practices, including Agile development, cloud infrastructure, product thinking, and collaborative engineering.
 
-My website is what I call a Digital Garden. Think of it as a place where ideas grow, like plants in a real garden. Here, you'll find topics about water, tech, programming, and data. It showcases what I'm learning and how I aim to help others learn too.
+One project I particularly enjoyed was contributing to **eOceans**, a mobile platform that enables researchers and citizen scientists to collect oceanographic data around the world.
 
-Anyone can contribute to its growth. You can find all the articles and code of my website on GitHub. I welcome ideas to make it better - after all, the best gardens flourish with help from many people.
+Working alongside software engineers, data scientists, designers, and product managers fundamentally changed how I approach engineering problems. It showed me how modern software development can accelerate innovation in traditionally conservative industries like water.
 
-From my early days of coding until now, I've been learning and growing continuously. I'm always excited to meet people who are interested in water management, technology, or both. Feel free to explore my digital garden, get in touch, and learn with me.
+---
 
-## Reach Me Here
+# What I Do Today
 
-📍 Kongsvinger, Norway
+Today, I work as a **Hydroinformatics Engineer at Aqua Alarm** in Norway.
 
-📧 Email: samsamihd@gmail.com
+My work focuses on developing intelligent software that helps water utilities operate more efficiently and make better decisions.
 
-📞 Phone: +47 96 73 51 73
+Some of the things I work on include:
 
-💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/samsamihd/)
+- Machine learning models for forecasting and anomaly detection
+- Predictive maintenance for operational water networks
+- Hydrological and operational time-series analysis
+- AWS cloud infrastructure and real-time data pipelines
+- Python backend development for digital water platforms
+- AI-powered decision support systems
 
-🐙 [Check out my GitHub](https://www.github.com/samsamihd/)
+I collaborate closely with hydrologists, engineers, researchers, data scientists, and software developers to transform large volumes of environmental and operational data into practical tools for water utilities.
 
-✖️ [Follow me on X](https://www.x.com/samsamihd/)
+One achievement I'm particularly proud of is that our team won **1st Prize in The Water Council's Tech Challenge** for developing AI-native technologies that improve prediction, automation, optimization, and decision-making in water systems.
+
+---
+
+# Research Interests
+
+I'm especially interested in combining **physics-based hydrology** with **modern machine learning**.
+
+One of my current research projects explores **physics-informed deep learning for multi-basin river discharge forecasting**, integrating hydrological processes with modern neural network architectures to improve forecasting accuracy.
+
+More broadly, I'm interested in:
+
+- Hydrological forecasting
+- Machine learning for environmental systems
+- Physics-informed AI
+- Time-series forecasting
+- Digital water systems
+- Water quality prediction
+- Cloud-native hydroinformatics
+- Open-source scientific software
+
+---
+
+# Why Hydroinformatics?
+
+Hydroinformatics is where **water science meets computer science**.
+
+It combines hydrology, hydraulics, data science, software engineering, and artificial intelligence to better understand and manage water systems.
+
+Modern water utilities generate enormous amounts of data from weather forecasts, sensors, treatment plants, water distribution networks, rivers, reservoirs, and satellites. Hydroinformatics transforms that data into actionable insights through mathematical models, machine learning, and digital platforms.
+
+I believe this field will play a critical role in helping society adapt to climate change, improve water security, optimize infrastructure, and support sustainable decision-making.
+
+---
+
+# My Toolkit
+
+Some of the technologies I work with regularly include:
+
+### Hydrology & Hydraulic Modeling
+
+- HEC-HMS
+- HEC-RAS
+- SWMM
+- EPANET
+
+### Programming
+
+- Python
+- FastAPI
+- JavaScript / TypeScript
+- React
+
+### Machine Learning
+
+- Forecasting
+- Predictive analytics
+- Time-series modeling
+- Anomaly detection
+- Physics-informed deep learning
+
+### Cloud & Data
+
+- AWS
+- Real-time data pipelines
+- Operational forecasting systems
+- GIS and spatial analysis
+
+---
+
+# My Digital Garden
+
+This website is my **Digital Garden**.
+
+Rather than publishing only polished articles, I use this space to document what I'm learning and building. You'll find topics ranging from hydrology and hydraulic modeling to Python programming, machine learning, cloud computing, GIS, and software engineering.
+
+Many of the articles are living documents that continue to evolve as I learn new things.
+
+I also enjoy building open-source tools and sharing code that helps engineers and researchers solve real-world problems.
+
+If something here helps you—or if you have ideas for improving it—I'd love to hear from you.
+
+---
+
+# Let's Connect
+
+I'm always happy to connect with people interested in:
+
+- Hydroinformatics
+- Hydrology
+- Machine Learning
+- Water Resources
+- Software Engineering
+- Digital Water
+- Open Source
+
+Whether you're a researcher, engineer, developer, student, or simply curious about the future of water technology, feel free to reach out.
+
+📍 **Kongsvinger, Norway**
+
+📧 **Email:** samsamihd@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/samsamihd
+
+🐙 **GitHub:** https://github.com/samsamihd
+
+🌐 **Website:** https://samsami.me
+
+✖️ **X:** https://x.com/samsamihd
+
+---
+
+> *"The future of water engineering lies at the intersection of hydrology, data science, and software engineering. My goal is to help bridge these worlds by building practical, intelligent solutions that make water systems more resilient, efficient, and sustainable."*
